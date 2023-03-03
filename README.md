@@ -1,5 +1,7 @@
 # PTCSC.RefactoringTool
 
+
+## Overview
 This block is intended as a developer tool, to make it faster &amp; easier to move or copy services and properties from a Thing, ThingTemplate or ThingShape to another entity.
 
 
@@ -7,12 +9,6 @@ This block is intended as a developer tool, to make it faster &amp; easier to mo
 ## Disclaimer
 
 This Software is not officially supported by PTC By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it. Users accept all risk whatsoever regarding the security of the code they download. PTC will not accept technical support cases logged related to to this Software PTC has not performed its full breadth of testing and quality assurance on this software. This Software has not been released for general distribution or sale. This Software may not be compatible with any existing or future commercial release versions of PTC software. PTC is under no obligation to and may never commercially release this software or other software containing functionality contained in this Software. PTC is not responsible for any maintenance for this software.
-
-
-
-## Overview
-
-The project is a standard building block in compliance with the building block design principles of PTC.
 
 
 
