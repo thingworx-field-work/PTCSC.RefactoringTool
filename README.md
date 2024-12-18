@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a8e50e9-4954-418a-9238-5604b463e14a)# PTCSC.RefactoringTool
+# PTCSC.RefactoringTool
 
 
 ## Overview
