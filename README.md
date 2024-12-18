@@ -5,7 +5,8 @@
 This block is intended as a developer tool, to make it faster &amp; easier to move or copy services and properties from a Thing, ThingTemplate or ThingShape to another entity.
 
 # Author 
-Stefan Neagu - Senior Solution Consultant, Romania CoE Team  
+Bogdan Baranga - Senior Director Solution Consulting, requirements \n\l
+Stefan Neagu - Senior Solution Consultant, Romania CoE Team, implementation
 
 # Disclaimer
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
